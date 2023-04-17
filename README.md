@@ -26,81 +26,81 @@ Học kỳ 2, Năm học 2022-2023
 |     Giao diện quản lý của admin           |    Giao diện xem sản phẩm yêu thích   |
 
 ## Contents:
-  - [Giao diện giới thiệu ứng dụng 💫](#Onboard)
-  - [Giao diện đăng ký / đăng nhập 🛡](#LogInSignUp)
-  - [Giao diện trang chủ 🏠](#Home)
-  - [Giao diện xem tất cả sản phẩm 📰](#AllProd)
-  - [Giao diện chi tiết sản phẩm 🗒](#DetailProd)
-  - [Giao diện giỏ hàng ️🛒](#Cart)
-  - [Giao diện xác nhận đơn hàng 📝](#ConfirmOrder)
-  - [Giao diện tài khoản 👤](#Account)
-  - [Giao diện tìm kiếm 🔍](#Search)
-  - [Giao diện xem sản phẩm yêu thích 💓](#FavoriteProd)
-  - [Giao diện xem đơn hàng đã đặt 📜](#Orders)
-  - [Giao diện quản lý của admin 👨🏽‍💻](#ProdManagement)
+  - [Giao diện giới thiệu ứng dụng 💫](#onboard)
+  - [Giao diện đăng ký / đăng nhập 🛡](#login-signup)
+  - [Giao diện trang chủ 🏠](#home)
+  - [Giao diện xem tất cả sản phẩm 📰](#all-prod)
+  - [Giao diện chi tiết sản phẩm 🗒](#detail-prod)
+  - [Giao diện giỏ hàng ️🛒 ](#cart)
+  - [Giao diện xác nhận đơn hàng 📝](#confirm-order)
+  - [Giao diện tài khoản 👤](#account)
+  - [Giao diện tìm kiếm 🔍](#search)
+  - [Giao diện xem sản phẩm yêu thích 💓](#favorite-prod)
+  - [Giao diện xem đơn hàng đã đặt 📜](#orders)
+  - [Giao diện quản lý của admin 👨🏽‍💻](#prod-management)
   
 ## JSon Structure on Firebase:
   - [products 🔥](#jsproducts)
-  - [userFavorites 🔥](#jsuserFavorites)
+  - [userFavorites 🔥](#jsuser-favorites)
   - [orders 🔥](#jsorders)
 
 
-### Giao diện giới thiệu ứng dụng 💫 <a id="Onboard"></a>
+### Giao diện giới thiệu ứng dụng 💫 <a id="onboard"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Onboard.png" width="60%"/>
 </div>
 
-### Giao diện đăng ký / đăng nhập 🛡 <a id="LogInSignUp"></a>
+### Giao diện đăng ký / đăng nhập 🛡 <a id="login-signup"></a>
 <div align="center">
-    <img src="./assets/recommendation/screen/LogIn_SignUP.png" width="60%"/>
+    <img src="./assets/recommendation/screen/LogIn_SignUp.png" width="60%"/>
 </div>
 
-### Giao diện trang chủ 🏠 <a id="Home"></a>
+### Giao diện trang chủ 🏠 <a id="home"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Home.png" width="60%"/>
 </div>
 
-### Giao diện xem tất cả sản phẩm 📰<a id="AllProd"></a>
+### Giao diện xem tất cả sản phẩm 📰<a id="all-prod"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/AllProd.png" width="60%"/>
 </div>
 
-### Giao diện chi tiết sản phẩm 🗒 <a id="DetailProd"></a>
+### Giao diện chi tiết sản phẩm 🗒 <a id="detail-prod"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/DetailProd.png" width="60%"/>
 </div>
 
-### Giao diện giỏ hàng ️🛒 <a id=#Carte"></a>
+### Giao diện giỏ hàng ️🛒 <a id="cart"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Cart.png" width="60%"/>
 </div>
 
-### Giao diện xác nhận đơn hàng 📝 <a id="ConfirmOrder"></a>
+### Giao diện xác nhận đơn hàng 📝 <a id="confirm-order"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/ConfirmOrder.png" width="60%"/>
 </div>
 
-### Giao diện tài khoản 👤 <a id="Account"></a>
+### Giao diện tài khoản 👤 <a id="account"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Account.png" width="60%"/>
 </div>
 
-### Giao diện tìm kiếm 🔍 <a id="Search"></a>
+### Giao diện tìm kiếm 🔍 <a id="search"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Search.png" width="60%"/>
 </div>
 
-### Giao diện xem sản phẩm yêu thích 💓 <a id="FavoriteProd"></a>
+### Giao diện xem sản phẩm yêu thích 💓 <a id="favorite-prod"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/FavoriteProd.png" width="60%"/>
 </div>
 
-### Giao diện xem đơn hàng đã đặt 📜 <a id="Orders"></a>
+### Giao diện xem đơn hàng đã đặt 📜 <a id="orders"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Orders.png" width="60%"/>
 </div>
 
-### Giao diện quản lý của admin 👨🏽‍💻 <a id="ProdManagement"></a>
+### Giao diện quản lý của admin 👨🏽‍💻 <a id="prod-management"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/ProdManagement.png" width="60%"/>
 </div>
@@ -117,5 +117,5 @@ Học kỳ 2, Năm học 2022-2023
 
 ### Cấu trúc JSon của orders 🔥<a id="jsorders"></a>
 <div align="center">
-    <img src="./assets/recommendation/screen/Json_order.png" width="60%"/>
+    <img src="./assets/recommendation/screen/Json_orders.png" width="60%"/>
 </div>
