@@ -43,79 +43,81 @@ Học kỳ 2, Năm học 2022-2023
   - [products 🔥](#jsproducts)
   - [userFavorites 🔥](#jsuser-favorites)
   - [orders 🔥](#jsorders)
+  
+## Install
+You can install the app on your phone to experience. ([Install now](https://github.com/nntruong1907/PanowTech/tree/main/assets/recommendation/app%20APK))
 
-
-### Giao diện giới thiệu ứng dụng 💫 <a id="onboard"></a>
+### Giao diện giới thiệu ứng dụng <a id="onboard"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Onboard.png" width="60%"/>
 </div>
 
-### Giao diện đăng ký / đăng nhập 🛡 <a id="login-signup"></a>
+### Giao diện đăng ký / đăng nhập <a id="login-signup"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/LogIn_SignUp.png" width="60%"/>
 </div>
 
-### Giao diện trang chủ 🏠 <a id="home"></a>
+### Giao diện trang chủ <a id="home"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Home.png" width="60%"/>
 </div>
 
-### Giao diện xem tất cả sản phẩm 📰<a id="all-prod"></a>
+### Giao diện xem tất cả sản phẩm <a id="all-prod"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/AllProd.png" width="60%"/>
 </div>
 
-### Giao diện chi tiết sản phẩm 🗒 <a id="detail-prod"></a>
+### Giao diện chi tiết sản phẩm <a id="detail-prod"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/DetailProd.png" width="60%"/>
 </div>
 
-### Giao diện giỏ hàng ️🛒 <a id="cart"></a>
+### Giao diện giỏ hàng <a id="cart"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Cart.png" width="60%"/>
 </div>
 
-### Giao diện xác nhận đơn hàng 📝 <a id="confirm-order"></a>
+### Giao diện xác nhận đơn hàng <a id="confirm-order"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/ConfirmOrder.png" width="60%"/>
 </div>
 
-### Giao diện tài khoản 👤 <a id="account"></a>
+### Giao diện tài khoản  <a id="account"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Account.png" width="60%"/>
 </div>
 
-### Giao diện tìm kiếm 🔍 <a id="search"></a>
+### Giao diện tìm kiếm <a id="search"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Search.png" width="60%"/>
 </div>
 
-### Giao diện xem sản phẩm yêu thích 💓 <a id="favorite-prod"></a>
+### Giao diện xem sản phẩm yêu thích <a id="favorite-prod"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/FavoriteProd.png" width="60%"/>
 </div>
 
-### Giao diện xem đơn hàng đã đặt 📜 <a id="orders"></a>
+### Giao diện xem đơn hàng đã đặt <a id="orders"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Orders.png" width="60%"/>
 </div>
 
-### Giao diện quản lý của admin 👨🏽‍💻 <a id="prod-management"></a>
+### Giao diện quản lý của admin <a id="prod-management"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/ProdManagement.png" width="60%"/>
 </div>
 
-### Cấu trúc JSon của products 🔥<a id="jsproducts"></a>
+### Cấu trúc JSon của products <a id="jsproducts"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Json_products.png" width="60%"/>
 </div>
 
-### Cấu trúc JSon của userFavorites 🔥<a id="jsuserFavorites"></a>
+### Cấu trúc JSon của userFavorites <a id="jsuserFavorites"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Json_userFavorites.png" width="60%"/>
 </div>
 
-### Cấu trúc JSon của orders 🔥<a id="jsorders"></a>
+### Cấu trúc JSon của orders <a id="jsorders"></a>
 <div align="center">
     <img src="./assets/recommendation/screen/Json_orders.png" width="60%"/>
 </div>
