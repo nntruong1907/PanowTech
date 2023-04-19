@@ -293,7 +293,7 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
                       final cart = context.read<CartManager>();
                       cart.addItem(widget.product, _n);
                       // cart.addItem(widget.product);
-                      Navigator.push(
+                      Navigator.pushReplacement(
                         context,
                         MaterialPageRoute(
                           builder: (context) => CartScreen(),

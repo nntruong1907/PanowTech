@@ -66,7 +66,7 @@ class _OrderInformationState extends State<OrderInformation> {
       _isLoading = false;
     });
     if (mounted) {
-      Navigator.push(
+      Navigator.pushReplacement(
           context, MaterialPageRoute(builder: (context) => OrderScreen()));
     }
   }

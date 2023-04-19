@@ -156,7 +156,7 @@ class _CartScreenState extends State<CartScreen> {
               onPressed: cart.totalAmount <= 0
                   ? null
                   : () {
-                      Navigator.push(
+                      Navigator.pushReplacement(
                           context,
                           MaterialPageRoute(
                               builder: (context) => OrderInformation(
